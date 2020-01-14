@@ -1,7 +1,5 @@
 # Placement
 
-https://goo.gl/rZ9tqm 
-
 Web apps which I created whilst on placement
 
 Whilst on placement I worked on a number of web applications these include CRMLive and IVD
